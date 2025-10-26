@@ -31,6 +31,25 @@ Este proyecto analiza los datos de delitos ocurridos en Argentina desde 2017 has
 - Análisis por regiones automáticas
 - Heatmaps y gráficos de burbujas
 
+  ##  Versiones Disponibles
+
+###  Versión Online (Actual)
+- **URL**: [https://dashboarddelitosarg-z95u95yxtc9m9glmgp4gty.streamlit.app/](https://dashboarddelitosarg-z95u95yxtc9m9glmgp4gty.streamlit.app/)
+- **Características**: 
+  - Análisis exploratorio completo
+  - Visualizaciones interactivas
+  - Datos 2017-2023
+  - Filtros por provincia y tiempo
+  - Métricas en tiempo real
+
+###  Versión Local (Completa)
+- **Incluye**: Modelo de Machine Learning + Análisis Predictivo
+- **Requisitos**: Ejecución local con todas las dependencias
+- **Características adicionales**:
+  - Random Forest para predicción de riesgo
+  - Análisis de zonas críticas
+  - Mapas predictivos interactivos
+
 ##  Instalación y Uso
 
 ### Prerrequisitos
